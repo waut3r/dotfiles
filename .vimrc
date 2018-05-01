@@ -13,6 +13,7 @@ call vundle#begin()
 " 
 
 Plugin 'VundleVim/Vundle.vim'
+Plugin 'Valloric/YouCompleteMe'
 Plugin 'leafgarland/typescript-vim'
 Plugin 'Quramy/tsuquyomi'
 Plugin 'jason0x43/vim-js-indent'
